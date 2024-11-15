@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.jhipsterexample.\
+    monolithic.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    jhipsterexample.monolithic.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
